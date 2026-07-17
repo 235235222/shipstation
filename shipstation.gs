@@ -8,7 +8,9 @@
 // ============================================================
 
 var RECIPIENTS = [
-  'jessica@kolikof.com'
+  'jessica@kolikof.com',
+  'paula@kolikof.com',
+  'jim@kolikof.com'
 ];
 
 var SERVICE_MAP = {
